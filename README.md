@@ -43,7 +43,8 @@
 ![acc_plot](https://user-images.githubusercontent.com/96675556/163594214-49612138-85f2-4e2f-a5cf-fe487c15d145.png)
 ![loss_plot](https://user-images.githubusercontent.com/96675556/163594222-7bdc5303-3d24-4f6e-ba6a-c81d4842d3ca.png)
 
-<img width="450" alt="image" src="https://user-images.githubusercontent.com/96675556/163594550-21e18f56-090c-432b-bcc3-868a2a25deba.png">
 <마스크를 올바르게 착용하지 않은 경우>
-<img width="450" alt="image" src="https://user-images.githubusercontent.com/96675556/163594689-1b603aa4-0ed8-40b5-991c-0328da71d074.png">
+<img width="450" alt="image" src="https://user-images.githubusercontent.com/96675556/163594550-21e18f56-090c-432b-bcc3-868a2a25deba.png">
 <마스크를 올바르게 착용한 경우>
+<img width="450" alt="image" src="https://user-images.githubusercontent.com/96675556/163594689-1b603aa4-0ed8-40b5-991c-0328da71d074.png">
+
